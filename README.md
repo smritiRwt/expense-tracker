@@ -1,16 +1,26 @@
-# expense
+💸 Expense Tracker App (Flutter UI)
+A sleek and intuitive Expense Tracker UI built using Flutter. This app includes all essential screens for managing personal finances, such as login, signup, home dashboard, wallet management, expense tracking, and statistics visualization.
 
-A new Flutter project.
+Note: This is currently a UI-only implementation. Backend logic and data persistence can be added later using local storage (like Hive or SQLite) or remote storage (like Firebase or Supabase).
 
-## Getting Started
+📱 Screens Included
+🔐 Login Screen – Secure user login interface
 
-This project is a starting point for a Flutter application.
+📝 Signup Screen – New user registration
 
-A few resources to get you started if this is your first Flutter project:
+🏠 Home Screen – Overview of expenses, recent transactions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+➕ Add Expense Screen – Form to input new expense
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👛 Add Wallet Screen – Manage wallets/accounts
+
+👤 Profile Screen – User profile and settings
+
+📊 Statistics Screen – Visual insights into spending patterns
+
+🛠️ Built With
+Flutter – UI toolkit for building natively compiled applications
+
+Dart – Programming language used with Flutter
+
+Custom Widgets – Reusable components across screens
